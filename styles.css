@@ -1,0 +1,133 @@
+
+body {
+     color:#40514E;
+     margin:0;
+     text-align : center;
+     font-family: 'Fira Sans', sans-serif;
+}
+
+h1 {
+
+    font-family: 'Sacramento', cursive;
+    font-size:5rem;
+    margin-top:25px;
+    margin-bottom:0px;
+    color:black;
+    padding-bottom:10px;
+}
+
+h2 {
+    font-family: 'Nunito', sans-serif;
+    font-size:2rem;
+    font-weight:normal;
+
+}
+
+h3 {
+    font-family: 'Nunito', sans-serif;
+
+}
+
+hr {
+    border:dotted;
+    color:lightgrey;
+    border-bottom:none;
+    width:5%;
+    margin:25px auto;
+}
+
+a {
+        color:white;
+        font-family: 'Nunito', sans-serif;
+        margin:10px ;
+        text-decoration:none;
+
+}
+
+a:hover{
+        color:blue;
+}
+
+.top-container {
+                background-color:#95D1CC;
+                padding:20px;
+                position:relative;
+                padding-top:100px;
+}
+
+.middle-container {
+                background-color:#F2F5C8;
+                padding:20px;
+                position:relative;
+                padding-top:10px;
+
+}
+
+.bottom-container {
+                background-color: #219F94;
+                padding:50px 0 20px;
+
+}
+
+.pro {
+      text-decoration: underline;
+}
+
+
+
+.code-img {
+           width:25%;
+           float:left;
+           margin-right:30px;
+
+}
+
+table {
+
+       border-collapse: collapse;
+
+}
+
+.planet-img {
+            width:300px;
+           heigh:300px;
+}
+
+.skill-row {
+            width:50%;
+            margin:100px auto;
+            text-align: left;
+
+
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #147bba);
+  background-image: -moz-linear-gradient(top, #11cdd4, #147bba);
+  background-image: -ms-linear-gradient(top, #11cdd4, #147bba);
+  background-image: -o-linear-gradient(top, #11cdd4, #147bba);
+  background-image: linear-gradient(to bottom, #11cdd4, #147bba);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: 'Nunito', sans-serif;
+  color: white;
+  font-size: 12px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0c5785;
+  background-image: -webkit-linear-gradient(top, #0c5785, #3498db);
+  background-image: -moz-linear-gradient(top, #0c5785, #3498db);
+  background-image: -ms-linear-gradient(top, #0c5785, #3498db);
+  background-image: -o-linear-gradient(top, #0c5785, #3498db);
+  background-image: linear-gradient(to bottom, #0c5785, #3498db);
+  text-decoration: none;
+}
+
+.copyright{
+        color:white;
+}
